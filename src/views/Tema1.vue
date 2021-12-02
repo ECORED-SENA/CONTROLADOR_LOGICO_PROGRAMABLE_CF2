@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 Estrategias didácticas
+      h1 Controladores lógicos programables
     .row.mt-5(data-aos="fade-left")
       .col-12.col-lg-7
         .bloque-texto-b.color-acento-contenido.p-4
@@ -112,7 +112,7 @@
       .col-12.col-lg-7
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
-              p Gracias a sus características de diseño y constante evolución tanto en el software como en el hardware, hace que las aplicaciones cada vez sean mayores, con la finalidad de satisfacer necesidades de automatización que aparezcan en cualquier ámbito existente. Entre algunas aplicaciones en la industria están los procesos de fabricación, control de instalaciones, señalización, maquinarias de ensamblaje, logística, etc.; en el hogar se pueden encontrar algunos utilizados (menos robustos) en domótica para control de luces, riego de jardines, control de accesos, entre otros, ver figura 6. 
+              p Gracias a sus características de diseño y constante evolución tanto en el <em>software</em> como en el <em>hardware</em>, hace que las aplicaciones cada vez sean mayores, con la finalidad de satisfacer necesidades de automatización que aparezcan en cualquier ámbito existente. Entre algunas aplicaciones en la industria están los procesos de fabricación, control de instalaciones, señalización, maquinarias de ensamblaje, logística, etc.; en el hogar se pueden encontrar algunos utilizados (menos robustos) en domótica para control de luces, riego de jardines, control de accesos, entre otros, ver figura 6. 
       .col-10.offset-1.mt-5
         .titulo-sexto.color-secundario
           h5 Figura 6 
@@ -147,7 +147,7 @@
             .col-3.bg-morado.rounded-20-izq.text-white.text-center
               .h3.font-3rem.mt-3 03
             .col-9.p-4
-              p No requiere dibujo de esquemático
+              p No requiere dibujo de esquemático.
 
           .tarjeta.bg-blanco(x="5.4%" y="63%" numero=" ").row.p-0
             .col-3.bg-morado.rounded-20-izq.text-white.text-center
@@ -159,7 +159,7 @@
             .col-3.bg-morado.rounded-20-izq.text-white.text-center
               .h3.font-3rem.mt-3 05
             .col-9.p-4
-              p Los cambios de programa no requieren cambios de hardware, menor costo de mantenimiento y de instalación. 
+              p Los cambios de programa no requieren cambios de <em>hardware</em>, menor costo de mantenimiento y de instalación. 
 
           .tarjeta.bg-blanco(x="38%" y="92%" numero=" ").row.p-0
             .col-3.bg-morado.rounded-20-izq.text-white.text-center

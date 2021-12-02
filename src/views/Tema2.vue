@@ -14,7 +14,7 @@
             figure
               img(src='@/assets/template/tema-2-1.svg', alt='Texto que describa la imagen')
           .col-12.col-lg-8.px-4.align-self-center
-            p Una física #[strong (hardware)], compuesta de todo lo que se puede ver y tocar, es donde se pueden conectar los distintos dispositivos como los módulos de memoria, módulos de entrada y salida, batería, entre otros.
+            p Una física <b>(<em>hardware</em>)</b>, compuesta de todo lo que se puede ver y tocar, es donde se pueden conectar los distintos dispositivos como los módulos de memoria, módulos de entrada y salida, batería, entre otros.
     .row.mt-4(data-aos="slide-left")
       .col-10.col-lg-8.offset-1.offset-lg-2.rounded-20.border-gris.p-5.floating
         .row
@@ -22,7 +22,7 @@
             figure
               img(src='@/assets/template/tema-2-2.svg', alt='Texto que describa la imagen')
           .col-12.col-lg-8.px-4.align-self-center
-            p La programada (software), esta se encuentra ubicada en un banco de memoria y es donde están localizadas las instrucciones que debe ejecutar el PCL para comandar los distintos dispositivos.
+            p La programada <b>(<em>software</em>)</b>, esta se encuentra ubicada en un banco de memoria y es donde están localizadas las instrucciones que debe ejecutar el PCL para comandar los distintos dispositivos.
     .row.mt-4
       .col-10.offset-1.mt-5
         .titulo-sexto.color-secundario
@@ -36,7 +36,9 @@
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto            
               p Los PLC para su funcionamiento incorporan microprocesadores, cuya parte del cerebro de la máquina, se encarga de recibir y enviar la información para ejecutar las instrucciones de control (entradas y salidas), según la programación depositada en la memoria de datos y de programa, en ella puede haber otras funciones de uso general, instaladas por el fabricante, como los controladores PID. Dicha memoria permite, la reprogramación (variar los procesos), conocer el estado de los procesos y los datos para luego hacer su respectivo análisis.
-              p.mt-3 En el siguiente recurso se profundizará en cada una de las partes del PCL:
+              br.mt-5
+              br
+              p En el siguiente recurso se profundizará en cada una de las partes del PCL:
       .col-4.col-lg-5.offset-4.offset-lg-0.mt-4.mt-lg-0.align-self-center
         figure
           img(src='@/assets/template/tema-2-4.png', alt='Texto que describa la imagen').floating
@@ -128,7 +130,7 @@
           .col-10.col-lg-6.offset-1
             .titulo-sexto.color-secundario
               h5 Unidades de programación
-            p.mt-3 Estas deben ser de la forma más fácil para operar por el usuario, las sencillas por lo general tienen forma de calculadora, donde se introducen los datos por medio de pulsadores alfanuméricos y/o flechas de direccionamiento, pueden ser pantallas táctiles; se utiliza también las consolas de programación, por medio de una pantalla y teclado permite hacer la programación de manera más cómoda, dando posibilidad de observar parámetros más complejos y detallados durante su esta, se limitan a las funciones destinadas. Los PC, son equipos de mayor pertenencia y los más empleados, los cuales permiten programar los PLC, utilizar mayor cantidad de herramientas con más aplicaciones y potentes, capacidad mayor de almacenamiento magnéticos, mayor capacidad de transferencia de datos, monitorización mediante softwares especializados, impresiones, etc. 
+            p.mt-3 Estas deben ser de la forma más fácil para operar por el usuario, las sencillas por lo general tienen forma de calculadora, donde se introducen los datos por medio de pulsadores alfanuméricos y/o flechas de direccionamiento, pueden ser pantallas táctiles; se utiliza también las consolas de programación, por medio de una pantalla y teclado permite hacer la programación de manera más cómoda, dando posibilidad de observar parámetros más complejos y detallados durante su esta, se limitan a las funciones destinadas. Los PC, son equipos de mayor pertenencia y los más empleados, los cuales permiten programar los PLC, utilizar mayor cantidad de herramientas con más aplicaciones y potentes, capacidad mayor de almacenamiento magnéticos, mayor capacidad de transferencia de datos, monitorización mediante <em>software</em>s especializados, impresiones, etc. 
           .col-8.col-lg-4.offset-2.offset-lg-0.align-self-center.align-self-center
             figure
               img(src='@/assets/template/tema-2-15.png', alt='Texto que describa la imagen')
