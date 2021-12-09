@@ -103,7 +103,7 @@
     p.mt-5 En el siguiente video se conocerán las principales funciones del PCL: 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/snKYwtPcyS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .h4.mt-5 Aplicaciones
     .row.mt-5(data-aos="fade-left")
       .col-4.col-lg-5.offset-4.offset-lg-0.mt-4.mt-lg-0.align-self-center
