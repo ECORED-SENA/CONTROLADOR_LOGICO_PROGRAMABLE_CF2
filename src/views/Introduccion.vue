@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mt-5 Estimado aprendiz bienvenido al componente formativo “Programando el cerebro de las máquinas” Para iniciar se debe visualizar el siguiente video para conocer una introducción a la temática:
+    p.mt-5 Estimado aprendiz bienvenido al componente formativo “Programando el cerebro de las máquinas”. Para iniciar se debe visualizar el siguiente video para conocer una introducción a la temática:
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ZHMYKEQmUkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

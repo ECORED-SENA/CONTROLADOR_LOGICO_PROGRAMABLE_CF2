@@ -84,7 +84,7 @@ export default {
       referencia:
         'Blogs Deusto. (S.F). Tipos de sistemas de control industrial.',
       link:
-        'https://blogs.deusto.es/master-informatica/tag/control/?print=print-search',
+        'https://blogs.deusto.es/master-informatica/tipos-de-sistemas-de-control-industrial/',
     },
     {
       referencia: 'Castillo, W. (2010). Controlador lógico programable. PLC.',
@@ -292,9 +292,9 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Milady Tatiana Villamil Castellanos',
+        nombre: 'Daniel Felipe Varón Molina',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

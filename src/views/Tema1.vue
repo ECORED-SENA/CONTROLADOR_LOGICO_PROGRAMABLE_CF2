@@ -141,7 +141,7 @@
             .col-3.bg-morado.rounded-20-izq.text-white.text-center
               .h3.font-3rem.mt-3 02
             .col-9.p-4
-              p Facilidad de manejo al momento programarlo.
+              p Facilidad de manejo al momento de programarlo.
 
           .tarjeta.bg-blanco(x="5.4%" y="41%" numero=" ").row.p-0
             .col-3.bg-morado.rounded-20-izq.text-white.text-center

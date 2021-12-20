@@ -83,10 +83,10 @@
                 | La memoria de programa, en la cual el usuario introduce el programa a ejecutar de manera cíclica
               li 
                 i.fas.fa-angle-right
-                | La memoria de tabla de datos, la cual debe estar dividida por zonas (depende del fabricante), Aquí se encuentra la información de los elementos y componentes a emparejar con el PLC, ejemplo los contactore, temporizadores, memorias, etc.
+                | La memoria de tabla de datos, la cual debe estar dividida por zonas (depende del fabricante). Aquí se encuentra la información de los elementos y componentes a emparejar con el PLC, ejemplo los contactores, temporizadores, memorias, etc.
               li 
                 i.fas.fa-angle-right
-                | La memoria del sistema, es donde se encuentra el programa en código binario (lenguaje máquina) por el cual Se monitoriza el sistema y es ejecutado por el procesador que posee el PLC.
+                | La memoria del sistema, es donde se encuentra el programa en código binario (lenguaje máquina) por el cual se monitoriza el sistema y es ejecutado por el procesador que posee el PLC.
               li 
                 i.fas.fa-angle-right
                 | La memoria de almacenamiento, en la cual se guarda el programa del usuario y puede ser programa según la necesidad del mismo.
@@ -130,7 +130,7 @@
           .col-10.col-lg-6.offset-1
             .titulo-sexto.color-secundario
               h5 Unidades de programación
-            p.mt-3 Estas deben ser de la forma más fácil para operar por el usuario, las sencillas por lo general tienen forma de calculadora, donde se introducen los datos por medio de pulsadores alfanuméricos y/o flechas de direccionamiento, pueden ser pantallas táctiles; se utiliza también las consolas de programación, por medio de una pantalla y teclado permite hacer la programación de manera más cómoda, dando posibilidad de observar parámetros más complejos y detallados durante su esta, se limitan a las funciones destinadas. Los PC, son equipos de mayor pertenencia y los más empleados, los cuales permiten programar los PLC, utilizar mayor cantidad de herramientas con más aplicaciones y potentes, capacidad mayor de almacenamiento magnéticos, mayor capacidad de transferencia de datos, monitorización mediante <em>software</em>s especializados, impresiones, etc. 
+            p.mt-3 Estas deben ser de la forma más fácil para operar por el usuario, las sencillas por lo general tienen forma de calculadora, donde se introducen los datos por medio de pulsadores alfanuméricos y/o flechas de direccionamiento, pueden ser pantallas táctiles; se utiliza también las consolas de programación, por medio de una pantalla y teclado permite hacer la programación de manera más cómoda, dando posibilidad de observar parámetros más complejos y detallados durante su programación, se limitan a las funciones destinadas. Los PC, son equipos de mayor pertenencia y los más empleados, los cuales permiten programar los PLC, utilizar mayor cantidad de herramientas con más aplicaciones y potentes, capacidad mayor de almacenamiento magnéticos, mayor capacidad de transferencia de datos, monitorización mediante <em>software</em>s especializados, impresiones, etc. 
           .col-8.col-lg-4.offset-2.offset-lg-0.align-self-center.align-self-center
             figure
               img(src='@/assets/template/tema-2-15.png', alt='Texto que describa la imagen')
